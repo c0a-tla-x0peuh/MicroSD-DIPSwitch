@@ -16,5 +16,5 @@ Mide tan solo 15×11×1 milímetros, con un área de 165 mm². Esto es tres y me
 
 ![](images/Titulo2.gif)
 Se trata de un conjunto de interruptores eléctricos que se presenta en un formato encapsulado (en lo que se denomina Dual In-line Package), la totalidad del paquete de interruptores se puede también referir como interruptor DIP en singular.
-  Este tipo de interruptor se diseña para ser utilizado en un tablero similar al de circuito impreso junto con otros componentes electrónicos y se utiliza comúnmente para modificar O personalizar el comportamiento hardware de un dispositivo electrónico en ciertas situaciones específicas. 
+  Este tipo de interruptor se diseña para ser utilizado en un tablero similar al de circuito impreso junto con otros componentes electrónicos y se utiliza comúnmente para modificar o personalizar el comportamiento hardware de un dispositivo electrónico en ciertas situaciones específicas. 
 ![](images/DIPSwitch.png)
